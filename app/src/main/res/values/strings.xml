@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GPSlocation edit</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Precision_settings">Precision Settings</string>
+    <string name="locationText">Placeholder</string>
+    <string name="about">About</string>
+    <string name="Privacy_settings">Privacy Settings</string>
+    <string-array name="precisionSettings">
+        <item>Rough Region</item>
+        <item>Neighbourhood</item>
+        <item>Exact Location</item>
+    </string-array>
+
+    <string-array name="privacySettings">
+        <item>Never Give Location</item>
+        <item>Always Ask To Send Location</item>
+        <item>Always Send Location</item>
+    </string-array>
+
+</resources>
